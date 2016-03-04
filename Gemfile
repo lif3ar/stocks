@@ -23,6 +23,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'therubyracer'
 gem 'devise-bootstrap-views'
+gem "stock_quote"
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
